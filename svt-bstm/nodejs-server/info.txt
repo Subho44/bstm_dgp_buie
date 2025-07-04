@@ -1,0 +1,8 @@
+node js is js libeary 
+system information:
+
+username:admin
+home directory:C:\Users\admin
+platform:win32
+architechture:x64
+cpu cores:4
