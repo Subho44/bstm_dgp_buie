@@ -5,6 +5,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Header from "./components/Header";
 import Service from "./components/Service";
+import 'bootstrap/dist/css/bootstrap.min.css';
 const App = () => {
 
   return <>
