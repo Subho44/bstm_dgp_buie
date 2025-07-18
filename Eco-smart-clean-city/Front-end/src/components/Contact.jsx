@@ -1,9 +1,10 @@
 import React from 'react'
+import Areaform from './Areaform'
 
 const Contact = () => {
-  return (
-    <div>Contact</div>
-  )
+  return <>
+    <Areaform/>
+  </>
 }
 
 export default Contact
