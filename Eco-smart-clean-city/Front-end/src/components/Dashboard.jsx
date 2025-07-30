@@ -1,9 +1,10 @@
 import React from 'react'
+import PaymentPage from './PaymentPage'
 
 const Dashboard = () => {
-  return (
-    <div>Dashboard</div>
-  )
+  return <>
+    <PaymentPage/>
+  </>
 }
 
 export default Dashboard
